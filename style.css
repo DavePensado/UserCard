@@ -104,6 +104,11 @@ section {
   color: #063747;
 }
 
+.card-links-container a:active {
+  transform: scale(1.2);
+  color: #063747;
+}
+
 @keyframes circleAnimation {
   0% {
     border-color: rgba(161, 161, 161, 0.274);
